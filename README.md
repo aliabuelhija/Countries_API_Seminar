@@ -32,3 +32,7 @@ Installation
 You can easily add this library to your project by adding the following dependency to your build.gradle file:
 
 	        implementation 'com.github.aliabuelhija:Countries_API_Seminar:1.2'
+---
+Example:
+![image](https://github.com/aliabuelhija/Countries_API_Seminar/assets/100870794/94c5cafe-e536-4c1d-8909-b3ffd719a8c9)
+![image](https://github.com/aliabuelhija/Countries_API_Seminar/assets/100870794/d14f7bed-687e-4872-9181-69e4261190cb)
