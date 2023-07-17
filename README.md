@@ -36,6 +36,9 @@ With the above steps, you can effectively utilize the Countries API to retrieve 
 ---
 
 **Example:**
+
+
+
 ![image](https://github.com/aliabuelhija/Countries_API_Seminar/assets/100870794/d503c9dd-2fda-4674-8bb7-f23088e90785)
 ![image](https://github.com/aliabuelhija/Countries_API_Seminar/assets/100870794/151df8ef-c56f-47a3-be5f-9000cfe5a443)
 
