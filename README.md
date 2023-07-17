@@ -36,9 +36,8 @@ With the above steps, you can effectively utilize the Countries API to retrieve 
 ---
 
 **Example:**
+![image](https://github.com/aliabuelhija/Countries_API_Seminar/assets/100870794/d503c9dd-2fda-4674-8bb7-f23088e90785)
+![image](https://github.com/aliabuelhija/Countries_API_Seminar/assets/100870794/151df8ef-c56f-47a3-be5f-9000cfe5a443)
 
-![image](https://github.com/aliabuelhija/Countries_API_Seminar/assets/100870794/94c5cafe-e536-4c1d-8909-b3ffd719a8c9)
-
-![image](https://github.com/aliabuelhija/Countries_API_Seminar/assets/100870794/d14f7bed-687e-4872-9181-69e4261190cb)
 
 This provides an example of how the API can be used and the images demonstrate the output you can expect.
